@@ -1,0 +1,29 @@
+{
+  "file": "doom1.wad",
+  "edition": "DOOM v1.9 shareware (episode 1)",
+  "source_page": "https://ozkl.github.io/doomgeneric/",
+  "source_package": "https://ozkl.github.io/doomgeneric/doomgeneric.data",
+  "source_metadata": "https://ozkl.github.io/doomgeneric/doomgeneric.js",
+  "source_project": "https://github.com/ozkl/doomgeneric",
+  "upstream_readme_shareware_reference": "https://github.com/ozkl/doomgeneric#doomgeneric",
+  "package_sha256": "6da402d851c320e8849da0e464635942256283ce4d34b207619f31c31f448a3d",
+  "metadata_sha256": "73b56ebd355411d1c05ed29191b7af31e8e4e8d4cf77569180c0eaf18c322ead",
+  "package_range": {
+    "start_inclusive": 5631670,
+    "end_exclusive": 9827690
+  },
+  "bytes": 4196020,
+  "sha256": "1d7d43be501e67d927e415e0b8f3e29c3bf33075e859721816f652a526cac771",
+  "md5": "f0cefca49926d00903cf57551d901abe",
+  "expected_md5": "f0cefca49926d00903cf57551d901abe",
+  "expected_md5_matched": true,
+  "iwad_lump_count": 1264,
+  "validated_lumps": [
+    "TITLEPIC",
+    "DEMO1",
+    "E1M1"
+  ],
+  "retail_episode_2_present": false,
+  "not_for_git_commit": true,
+  "retrieved_utc": "2026-11-08T04:47:32.584485+00:00"
+}

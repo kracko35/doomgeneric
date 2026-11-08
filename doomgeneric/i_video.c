@@ -171,7 +171,7 @@ void cmap_to_fb(uint8_t *out, uint8_t *in, int in_pixels)
                          (c.b >> 3);
 
 #ifdef SYS_BIG_ENDIAN
-            p = swapeLE16(p); // can't use SHORT() because this needs to stay unsigned
+            p = swapLE16(p); // can't use SHORT() because this needs to stay unsigned
 #endif
             for (k = 0; k < fb_scaling; k++) {
                 *(uint16_t *)out = p;

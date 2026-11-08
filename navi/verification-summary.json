@@ -1,0 +1,18 @@
+{
+  "date": "2026-11-08",
+  "all_passed": true,
+  "cpu": "SH-4A big endian",
+  "sound": false,
+  "title_observed": true,
+  "demo_playback_observed": true,
+  "demo_motion_verified": true,
+  "demo_game_tics": 1063,
+  "demo_frames": 2068,
+  "payload_sha256": "f61b120efef8f8dc5ccbec805022bcc9cb0211d050f914a5a30af7a1b27139ca",
+  "qemu_sha256": "09401a88bb6204b2eea2d66eff783ec98d74fb93c01c3cd70eef64881cec11d6",
+  "wad_sha256": "1d7d43be501e67d927e415e0b8f3e29c3bf33075e859721816f652a526cac771",
+  "host_injects_frames": false,
+  "disk_attached": false,
+  "physical_device_verified": false,
+  "demo_game_seconds": 30.37142857142857
+}
